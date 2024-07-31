@@ -29,7 +29,6 @@ gnome-control-center
 gnome-disk-utility
 gnome-initial-setup
 gnome-menus
-gnome-screenshot
 gnome-shell
 gnome-software
 gnome-system-monitor
@@ -78,7 +77,11 @@ qemu-guest-agent
 sof-firmware
 spice-vdagent
 sudo
+switcheroo-control
 terminus-font
+tpm2-tools
+tpm2-tss
+tpm2-tss-engine
 vulkan-icd-loader
 vulkan-intel
 vulkan-mesa-layers
