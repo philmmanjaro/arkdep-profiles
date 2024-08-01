@@ -2,6 +2,7 @@ apparmor
 arch-install-scripts
 arkane-application-cleaner
 arkdep
+base
 bind
 bluez
 bluez-cups
@@ -19,7 +20,6 @@ fwupd
 gcc
 gdm
 git
-glibc-locales
 gnome-backgrounds
 gnome-calendar
 gnome-console
@@ -73,6 +73,7 @@ pipewire-audio
 pipewire-jack
 pipewire-pulse
 plymouth
+plymouth-theme-manjaro
 podman
 power-profiles-daemon
 pv
